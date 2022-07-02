@@ -17,7 +17,7 @@
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
+//description and tag me on github repo, 
 //thank you🦄
 //════════════════════════════//
 
@@ -42,23 +42,23 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ownername = "kingsley"
+global.ytname = "YT: kingsley" //ur yt chanel name
+global.socialm = "GitHub: Ife250" //ur github or insta name
+global.location = "south Africa, Blantyre, cavalry" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
+global.botname = "kingsley bot" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "kingsley Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "🦄ꫂKíñgsléy 😌"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['ur number'] //ur owner tag
 global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
+global.watermark = "kingsley Bot Inc." //ur watermark
+global.botscript = "https://github.com/ife250/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
 
