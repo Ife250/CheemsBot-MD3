@@ -41,8 +41,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "kingsley"
+global.owner = ['265889976968'] //ur owner number
+global.ownername = "🦄ꫂKíñgsléy"
 global.ytname = "YT: kingsley" //ur yt chanel name
 global.socialm = "GitHub: Ife250" //ur github or insta name
 global.location = "south Africa, Blantyre, cavalry" //ur location
@@ -55,8 +55,8 @@ global.packname = "kingsley Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄ꫂKíñgsléy 😌"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
+global.ownertag = ['265889976968'] //ur owner tag
+global.ownernummenu = ['265889976968'] //ur owner number in menu and all
 global.watermark = "kingsley Bot Inc." //ur watermark
 global.botscript = "https://github.com/ife250/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
@@ -97,14 +97,14 @@ global.mess = {
     success: 'Done✓',
     admin: 'This feature is only for admins!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
+    owner: 'This feature is only for Kíñgsléy🤴 https://wa.me/265889976968?text=Hy+legendary+Kíñgsléy+😻+😄',
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
+    wait: 'kingsley🚶bot in process...',
     linkm: 'Where is the link?',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    error: 'Error!☠️',
+    ban: 'You have been banned by the kingsley, if you want to be unbanned, chat https://wa.me/265889976968?text=Hy+legendary+Kíñgsléy+😻+😄 owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
