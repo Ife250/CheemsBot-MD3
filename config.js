@@ -49,7 +49,7 @@ global.location = "south Africa, Blantyre, cavalry" //ur location
 
 //bot bombdy
 global.botname = "kingsley bot" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.websitex = "☠️🤷☠️" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "kingsley Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄ꫂKíñgsléy 😌"
